@@ -1,4 +1,4 @@
 baseURL = 'https://blog.ourlinuxserver.com/'
 languageCode = 'en-us'
 title = 'Nassers Blog'
-theme = 'PaperMod'
+theme = 'ananke'

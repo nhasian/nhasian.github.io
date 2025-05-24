@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nassers Blog</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Nassers Blog</description>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 May 2025 12:43:06 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,7 @@
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Sat, 24 May 2025 12:43:06 -0700</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Hello World&lt;/p&gt;
-&lt;p&gt;This is my &lt;strong&gt;first&lt;/strong&gt; post on my blog. The site is &lt;em&gt;statically&lt;/em&gt; generated with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; which is an open source website builder written in Go.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Hugo Logo&#34; loading=&#34;lazy&#34; src=&#34;https://gohugo.io/images/hugo-logo-wide.svg&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello World&lt;/p&gt;&#xA;&lt;p&gt;This is my &lt;strong&gt;first&lt;/strong&gt; post on my blog. The site is &lt;em&gt;statically&lt;/em&gt; generated with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; which is an open source website builder written in Go.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://gohugo.io/images/hugo-logo-wide.svg&#34; alt=&#34;Hugo Logo&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
