@@ -1,7 +1,10 @@
 baseURL = 'https://blog.ourlinuxserver.com/'
 languageCode = 'en-us'
 title = 'Nassers Blog'
-theme = 'ananke'
+theme = 'PaperMod'
+[services]
+  [services.googleAnalytics]
+    ID = ''
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
