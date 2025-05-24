@@ -2,3 +2,6 @@ baseURL = 'https://blog.ourlinuxserver.com/'
 languageCode = 'en-us'
 title = 'Nassers Blog'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
