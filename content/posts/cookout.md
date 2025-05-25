@@ -1,6 +1,6 @@
 +++
 date = '2025-05-25T15:11:49-07:00'
-draft = true
+draft = false
 title = 'Cookout'
 +++
 
