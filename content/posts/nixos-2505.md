@@ -4,7 +4,7 @@ draft = false
 title = 'Nixos 25.05'
 +++
 
-![nixox logo](https://github.com/NixOS/nixos-artwork/blob/master/logo/nixos.svg "This is the title attribute {width='100' height='75' style='border: 1px solid red;`}")
+![nixos logo](https://github.com/NixOS/nixos-artwork/blob/master/logo/nixos.svg)
 
 NixOS 25.05 was just released [a few days ago](https://nixos.org/blog/announcements/2025/nixos-2505/). I did a fresh install in a VM to test it out. 
 
